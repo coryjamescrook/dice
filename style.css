@@ -1,0 +1,14 @@
+#roll {
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 5%;
+	width: 150px;
+	line-height: 50px;
+	text-align: center;
+	background-color: #B7B9FF;
+}
+
+#roll:hover {
+	background-color: #FD7867;
+}
